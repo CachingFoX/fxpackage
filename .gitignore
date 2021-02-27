@@ -1,0 +1,5 @@
+/.idea/**
+/venv/**
+/fxpackage.egg-info/**
+/dist/**
+/build/**
